@@ -21,17 +21,17 @@
 //thank you🦄
 //════════════════════════════//
 
-const fs = require('fs')
-const chalk = require('chalk')
+const fs = require( fs )
+const chalk = require( chalk )
 
 //Api Website\\
 global.APIs = {
-	zenz: 'https://zenzapis.xyz',
+	zenz:  https://zenzapis.xyz ,
 }
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'your key',
+	 https://zenzapis.xyz :  your key ,
 }
 
 
@@ -46,31 +46,31 @@ global.available = true //auto available (true to on, false to off)
 global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
 
 //documents variants
-global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
-global.doc2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
-global.doc3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
-global.doc4 = 'application/zip'
-global.doc5 = 'application/pdf'
-global.doc6 = 'application/vnd.android.package-archive'
+global.doc1 =  application/vnd.openxmlformats-officedocument.presentationml.presentation 
+global.doc2 =  application/vnd.openxmlformats-officedocument.spreadsheetml.sheet 
+global.doc3 =  application/vnd.openxmlformats-officedocument.wordprocessingml.document 
+global.doc4 =  application/zip 
+global.doc5 =  application/pdf 
+global.doc6 =  application/vnd.android.package-archive 
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "nipuna rangana" //ur owner name
+global.vcardowner = [ 201283988563 ] //ur owner number
+global.ownername = "Waleed Owner Bot" //ur owner name
 global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑 𝐓𝐄𝐂𝐇" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy
-global.owner = ['94714188730'] //ur number 
-global.ownertag = '94714188730' //ur tag number
-global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶' //ur bot name
-global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
-global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
+global.owner = [ 201283988563 ] //ur number 
+global.ownertag =  201283988563  //ur tag number
+global.botname =   WALEED BOT ⚡🤖  //ur bot name
+global.linkz = "https://api.whatsapp.com/send?phone=+201283988563" //your theme url which will be displayed on whatsapp
+global.websitex = "https://api.whatsapp.com/send?phone=+201283988563" //ur website to be displayed
+global.botscript =  https://github.com/Nipuna-apps/Blue-Lione-Bot  //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark packname
-global.author = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker watermark author
+global.packname = " WALEED BOT ⚡🤖" //ur sticker watermark packname
+global.author = " WALEED BOT ⚡🤖" //ur sticker watermark author
 global.menumoji ="💖"
 global.menuimg = "https://i.ibb.co/0mDLtyr/f2337149532299-58b7611d91faf.jpg" //ur alive img link [https://i.ibb.co]
 global.alive = "https://raw.githubusercontent.com/Nipuna-apps/Blue-Lion-Bot-V2/main/LioneMedia/video/Lione-bot.mp4" //ur alive video or image link [github.com]
@@ -81,7 +81,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94714188730'] //ur premium numbers
+global.premium = [ 201283988563 ] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -102,25 +102,25 @@ global.autorep = []
 global.ntilink = []
 
 //omther
-global.sessionName = 'session'
+global.sessionName =  session 
 global.antitags = true
-global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⭔'
+global.prefa = [  , ! , . , 🐦 , 🐤 , 🗿 ]
+global.sp =  ⭔ 
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    success:  Done ✓ ,
+    admin:  This Feature Is Only For Admin! ,
+    botAdmin:  Bot Must Be Admin First! ,
+    owner:  This Feature Is Only For Owner! ,
+    group:  Feature Used Only For Groups! ,
+    private:  Features Used Only For Private Chat! ,
+    bot:  This Feature Is Only For Bot ,
+    wait:  In process... ,
+    linkm:  Where is the link? ,
+    error:  Error!! ,
+    endLimit:  Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours ,
+    ban:  You have been banned by the owner, if you want to be unbanned, chat owner. ,
+    nsfw:  The nsfw feature has not been activated, please contact the admin to activate ,
+    banChat:  The bot was banned in this group, please contact the owner to unban 
 }
     global.limitawal = {
     premium: "Infinity",
@@ -135,15 +135,15 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
-global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
+global.thumb = fs.readFileSync( ./XeonMedia/theme/cheemspic.jpg )
+global.flaming =  https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text= 
+global.fluming =  https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text= 
+global.flarun =  https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text= 
+global.flasmurf =  https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text= 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
-	console.log(chalk.redBright(`Update'${__filename}'`))
+	console.log(chalk.redBright(`Update ${__filename} `))
 	delete require.cache[file]
 	require(file)
 })
